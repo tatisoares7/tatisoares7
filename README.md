@@ -1,6 +1,6 @@
-### Olá! Sou a Tatiane Soares! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" alt="Meow Code" />
+### Olá! Sou a Tatiane Soares! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" alt="Meow Code" /> <img width="40" src="https://emojis.slackmojis.com/emojis/images/1673873437/63571/maxwell.gif?1673873437" alt="Maxwell" />
 <div> 
-<img width="40" src="https://emojis.slackmojis.com/emojis/images/1673873437/63571/maxwell.gif?1673873437" alt="Maxwell" />
+
 
   <div align="center">
   <a href="https://github.com/tatisoares7">
