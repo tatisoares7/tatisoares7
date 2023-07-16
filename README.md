@@ -19,3 +19,9 @@
   <a href="https://www.linkedin.com/in/tatiane-soares-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </p>
   
 </div>
+
+<div align="right">
+  <a href="https://badges.pufler.dev">
+      <img src="https://komarev.com/ghpvc/?username=tatisoares7" alt="Visitors badge" />
+   </a>
+</div>
